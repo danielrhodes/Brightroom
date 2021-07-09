@@ -115,7 +115,7 @@ public final class CropView: UIView, UIScrollViewDelegate {
   
   private var isBinding = false
   
-  var isAutoApplyEditingStackEnabled = false
+  public var isAutoApplyEditingStackEnabled = false
   
   // MARK: - Initializers
 
